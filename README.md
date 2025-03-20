@@ -1,6 +1,15 @@
 # MDocAgent
 
-## Environment Setup
+## Requirements
+
+1. Clone this repository and navigate to MDocAgent folder
+
+```bash
+git clone https://github.com/aiming-lab/MDocAgent.git
+cd MDocAgent
+```
+
+2. Install Package: Create conda environment
 
 ```bash
 conda create -n mdocagent python=3.12
@@ -8,21 +17,21 @@ conda activate mdocagent
 bash install.sh
 ```
 
-## Data Preparation
+3. Data Preparation
 
-1. Create a data directory:
+- Create a data directory:
     ```bash
     mkdir data
     cd data
     ```
-2. Download the dataset from [huggingface](https://huggingface.co/datasets/Lillianwei/Mdocagent-dataset) and place it in the `data` directory. The documents of PaperText are same as PaperTab. You can use symbol link or make a copy.
+- Download the dataset from [huggingface](https://huggingface.co/datasets/Lillianwei/Mdocagent-dataset) and place it in the `data` directory. The documents of PaperText are same as PaperTab. You can use symbol link or make a copy.
 
-3. Return to the project root:
+- Return to the project root:
     ```bash
     cd ../
     ```
 
-4. Extract the data using:
+- Extract the data using:
     ```bash
     python scripts/extract.py --config-name <dataset>  # (choose from mmlb / ldu / ptab / ptext / feta)
     ```
@@ -30,7 +39,7 @@ The extracted texts and images will be saved in `tmp/<dataset>`.
 
 ## Retrieval
 
-- Text Retrieval
+- **Text Retrieval**
 
     Set the retrieval type to `text` in `config/base.yaml`:
     ```yaml
@@ -42,7 +51,7 @@ The extracted texts and images will be saved in `tmp/<dataset>`.
     python scripts/retrieve.py --config-name <dataset>
     ```
 
-- Image Retrieval
+- **Image Retrieval**
 
     Switch the retrieval type to `image` in `config/base.yaml`:
     ```yaml
@@ -92,6 +101,7 @@ results/<dataset>/<run-name>/results.txt
 > **Note:** Evaluation will use the newest inference result file with same `<RUN_NAME>`.
 
 ## Citation
+
 ```bibtex
 @article{han2025mdocagent,
   title={MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding},
