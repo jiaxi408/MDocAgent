@@ -78,9 +78,9 @@ data/<dataset>/sample-with-retrieval-results.json
 
 Run the following command:
 ```bash
-python scripts/predict.py --config-name <dataset> run-name=<RUN_NAME>
+python scripts/predict.py --config-name <dataset> run-name=<run-name>
 ```
-> **Note:** `<RUN_NAME>` can be any string to uniquely identify this run (required).
+> **Note:** `<run-name>` can be any string to uniquely identify this run (required).
 
 The inference results will be saved to:  
 ```
@@ -89,22 +89,22 @@ results/<dataset>/<run-name>/<run-time>.json
 
 To specify the top-4 retrieval candidates, use:
 ```bash
-python scripts/predict.py --config-name <dataset> run-name=<RUN_NAME> top_k=4
+python scripts/predict.py --config-name <dataset> run-name=<run-name> top_k=4
 ```
 
 ## Evaluation
 
 1. Add your OpenAI API key in `config/model/openai.yaml`.
 
-2. Run the evaluation (make sure `<RUN_NAME>` matches your inference run):
+2. Run the evaluation (make sure `<run-name>` matches your inference run):
     ```bash
-    python scripts/eval.py --config-name <dataset> run-name=<RUN_NAME>
+    python scripts/eval.py --config-name <dataset> run-name=<run-name>
     ```
 The evaluation results will be saved in:
 ```
 results/<dataset>/<run-name>/results.txt
 ```
-> **Note:** Evaluation will use the newest inference result file with same `<RUN_NAME>`.
+> **Note:** Evaluation will use the newest inference result file with same `<run-name>`.
 
 ## Citation
 
