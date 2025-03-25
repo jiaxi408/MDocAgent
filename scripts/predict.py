@@ -2,7 +2,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from mydatasets.base_dataset import BaseDataset
-from agents.mdocagent import MDocAgent
+from agents.mdoc_agent import MDocAgent
 import hydra
 
 @hydra.main(config_path="../config", config_name="base", version_base="1.2")
