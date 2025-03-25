@@ -89,7 +89,7 @@ results/<dataset>/<run-name>/<run-time>.json
 
 To specify the top-4 retrieval candidates, use:
 ```bash
-python scripts/predict.py --config-name <dataset> run-name=<run-name> top_k=4
+python scripts/predict.py --config-name <dataset> run-name=<run-name> dataset.top_k=4
 ```
 
 ## Evaluation
