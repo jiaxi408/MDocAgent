@@ -12,7 +12,7 @@ class MDocAgent(MultiAgentSystem):
     def __init__(self, config):
         super().__init__(config)
     
-    def predict(self, sample, question, texts, images):
+    def predict(self, question, texts, images):
         general_agent = self.agents[-1]
         general_response, messages = general_agent.predict(question, texts, images, with_sys_prompt=True)
         # print("### General Agent: "+ general_response)
