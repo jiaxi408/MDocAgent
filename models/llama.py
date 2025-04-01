@@ -38,6 +38,7 @@ class Llama3(BaseModel):
         outputs = self.pipeline(
             messages,
             max_new_tokens=self.config.max_new_tokens,
+            pad_token_id=self.pipeline.tokenizer.eos_token_id,
         )
         self.clean_up()
         return outputs[0]["generated_text"][-1]['content'], outputs[0]["generated_text"]
