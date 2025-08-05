@@ -12,7 +12,7 @@ class ColbertRetrieval(BaseRetrieval):
     
     def prepare(self, dataset: BaseDataset):
         samples = dataset.load_data(use_retreival=True)
-        RAG = RAGPretrainedModel.from_pretrained("colbert-ir/colbertv2.0")
+        RAG = RAGPretrainedModel.from_pretrained("offline_models/colbert-ir__colbertv2.0")
         doc_index:dict = {}
         error = 0
         for sample in tqdm(samples):
