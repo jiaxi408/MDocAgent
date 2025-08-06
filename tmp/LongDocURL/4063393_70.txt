@@ -1,0 +1,2 @@
+Green: Type 1 (Sub RPE)
+Yellow: Type 2 (Subretinal)
