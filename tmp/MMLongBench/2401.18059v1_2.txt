@@ -1,0 +1,57 @@
+Published as a conference paper at ICLR 2024
+Despite a diversity in methods, the retrieving components of models predominantly rely on stan-
+dard approaches, i.e., chunking corpora and encoding with BERT-based retrievers. Although this
+approach is widely adopted, Nair et al. (2023) highlights a potential shortcoming: contiguous seg-
+mentation might not capture the complete semantic depth of the text. Reading extracted snippets
+from technical or scientific documents may lack important context making them difficult to read or
+even misleading. (Cohan & Goharian, 2017; Newman et al., 2023; Zhang et al., 2023).
+Recursive summarization as Context
+Summarization techniques provide a condensed view of
+documents, enabling more focused engagement with the content (Angelidis & Lapata, 2018). The
+summarization/snippet model by Gao et al. (2023) uses summarizations and snippets of passages,
+which improves correctness on most datasets but can sometimes be a lossy means of compression.
+The recursive-abstractive summarization model by Wu et al. (2021) employs task decomposition
+to summarize smaller text chunks, which are later integrated to form summaries of larger sections.
+While this method is effective for capturing broader themes, it can miss granular details. LlamaIndex
+(Liu, 2022) mitigates this issue by similarly summarizing adjacent text chunks but also retaining
+intermediate nodes thus storing varying levels of detail, keeping granular details. However, both
+methods, due to their reliance on adjacency for grouping or summarizing adjacent nodes, may still
+overlook distant interdependencies within the text, which we can find and group with RAPTOR.
+3
+METHODS
+Overview of RAPTOR
+Building on the idea that long texts often present subtopics and hierarchi-
+cal structures (Cao & Wang, 2022; Dong et al., 2023b), RAPTOR addresses the issue of semantic
+depth and connection in reading by building a recursive tree structure that balances broader thematic
+comprehension with granular details and which allows nodes to be grouped based on semantic sim-
+ilarity not just order in the text.
+Construction of the RAPTOR tree begins with segmenting the retrieval corpus into short, contiguous
+texts of length 100, similar to traditional retrieval augmentation techniques. If a sentence exceeds the
+100-token limit, we move the entire sentence to the next chunk, rather than cutting it mid-sentence.
+This preserves the contextual and semantic coherence of the text within each chunk. These texts
+are then embedded using SBERT, a BERT-based encoder (multi-qa-mpnet-base-cos-v1)
+(Reimers & Gurevych, 2019). The chunks and their corresponding SBERT embeddings form the
+leaf nodes of our tree structure.
+To group similar text chunks, we employ a clustering algorithm. Once clustered, a Language Model
+is used to summarize the grouped texts. These summarized texts are then re-embedded, and the cycle
+of embedding, clustering, and summarization continues until further clustering becomes infeasible,
+resulting in a structured, multi-layered tree representation of the original documents. An important
+aspect of RAPTOR is its computational efficiency. The system scales linearly in terms of both build
+time and token expenditure, making it suitable for processing large and complex corpora. For a
+comprehensive discussion on RAPTOR’s scalability, please refer to the Appendix A.
+For querying within this tree, we introduce two distinct strategies: tree traversal and collapsed tree.
+The tree traversal method traverses the tree layer-by-layer, pruning and selecting the most relevant
+nodes at each level. The collapsed tree method evaluates nodes collectively across all layers to find
+the most relevant ones.
+Clustering Algorithm
+Clustering plays a key role in building the RAPTOR tree, organizing text
+segments into cohesive groups. This step groups related content together, which helps the subse-
+quent retrieval process.
+One of the unique aspects of our clustering approach is the use of soft clustering, where nodes can
+belong to multiple clusters without requiring a fixed number of clusters. This flexibility is essen-
+tial because individual text segments often contain information relevant to various topics, thereby
+warranting their inclusion in multiple summaries.
+Our clustering algorithm is based on Gaussian Mixture Models (GMMs), an approach that offers
+both flexibility and a probabilistic framework. GMMs assume that data points are generated from a
+mixture of several Gaussian distributions.
+3

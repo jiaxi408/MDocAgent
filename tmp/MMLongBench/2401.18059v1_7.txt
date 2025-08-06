@@ -1,0 +1,113 @@
+Published as a conference paper at ICLR 2024
+Table 2: QuALITY and QASPER Performance With + Without RAPTOR: Performance com-
+parison across the QuALITY and QASPER datasets of various retrieval methods (SBERT, BM25,
+DPR) with and without RAPTOR. UnifiedQA-3B is used as the language model. RAPTOR outper-
+forms baselines of each respective retrieval method for both datasets.
+Model
+Accuracy (QuALITY)
+Answer F1 (QASPER)
+SBERT with RAPTOR
+56.6%
+36.70%
+SBERT without RAPTOR
+54.9%
+36.23%
+BM25 with RAPTOR
+52.1%
+27.00%
+BM25 without RAPTOR
+49.9%
+26.47%
+DPR with RAPTOR
+54.7%
+32.23%
+DPR without RAPTOR
+53.1%
+31.70%
+Table 3: Controlled comparison of F-1 scores on the QASPER dataset, using three different lan-
+guage models (GPT-3, GPT-4, UnifiedQA 3B) and various retrieval methods. The column ”Title +
+Abstract” reflects performance when only the title and abstract of the papers are used for context.
+RAPTOR outperforms the established baselines BM25 and DPR across all tested language models.
+Specifically, RAPTOR’s F-1 scores are at least 1.8% points higher than DPR and at least 5.3% points
+higher than BM25.
+Retriever
+GPT-3 F-1 Match
+GPT-4 F-1 Match
+UnifiedQA F-1 Match
+Title + Abstract
+25.2
+22.2
+17.5
+BM25
+46.6
+50.2
+26.4
+DPR
+51.3
+53.0
+32.1
+RAPTOR
+53.1
+55.7
+36.6
+Table 4: Comparison of accuracies on the QuAL-
+ITY dev dataset for two different language mod-
+els (GPT-3, UnifiedQA 3B) using various retrieval
+methods. RAPTOR outperforms the baselines of
+BM25 and DPR by at least 2.0% in accuracy.
+Model
+GPT-3 Acc.
+UnifiedQA Acc.
+BM25
+57.3
+49.9
+DPR
+60.4
+53.9
+RAPTOR
+62.4
+56.6
+Table 5: Results on F-1 Match scores of various
+models on the QASPER dataset.
+Model
+F-1 Match
+LongT5 XL (Guo et al., 2022)
+53.1
+CoLT5 XL (Ainslie et al., 2023)
+53.9
+RAPTOR + GPT-4
+55.7
+Comparison
+to
+State-of-the-art
+Systems
+Building upon our controlled comparisons,
+we examine RAPTOR’s performance relative
+to other state-of-the-art models.
+As shown
+in Table 5, RAPTOR with GPT-4 sets a new
+benchmark on QASPER, with a 55.7% F-1
+score, surpassing the CoLT5 XL’s score of
+53.9%.
+In the QuALITY dataset, as shown in Table 7,
+RAPTOR paired with GPT-4 sets a new state-
+of-the-art with an accuracy of 82.6%, surpass-
+ing the previous best result of 62.3%. In par-
+ticular, it outperforms CoLISA by 21.5% on
+QuALITY-HARD, which represents questions
+that humans took unusually long to correctly
+answer, requiring rereading parts of the text,
+difficult reasoning, or both.
+For the NarrativeQA dataset, as represented in
+Table 6, RAPTOR paired with UnifiedQA sets
+a new state-of-the-art METEOR score. When compared to the recursively summarizing model by
+Wu et al. (2021), which also employs UnifiedQA, RAPTOR outperforms it on all metrics. While
+Wu et al. (2021) rely solely on the summary in the top root node of the tree structure, RAPTOR
+benefits from its intermediate layers and clustering approaches, which allows it to capture a range of
+information, from general themes to specific details, contributing to its overall strong performance.
+4.1
+CONTRIBUTION OF THE TREE STRUCTURE
+We examine the contribution of each layer of nodes to RAPTOR’s retrieval capabilities. We hy-
+pothesized that upper nodes play a crucial role in handling thematic or multi-hop queries requiring
+a broader understanding of the text.
+8

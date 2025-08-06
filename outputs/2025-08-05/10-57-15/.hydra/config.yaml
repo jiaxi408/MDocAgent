@@ -1,0 +1,53 @@
+retrieval:
+  model_type: text
+  model_name: ColbertRetrieval
+  class_path: retrieval.${retrieval.model_type}_retrieval.${retrieval.model_name}
+  top_k: 10
+  doc_key: doc_id
+  text_question_key: question
+  image_question_key: question
+  r_text_key: text-top-${retrieval.top_k}-${retrieval.text_question_key}
+  r_image_key: image-top-${retrieval.top_k}-${retrieval.image_question_key}
+  r_mix_key: mix-top-${retrieval.top_k}-${retrieval.mix_question_key}
+  r_text_index_key: text-index-path-${retrieval.text_question_key}
+  cuda_visible_devices: '0'
+run-name: mmlb-MDA
+dataset:
+  top_k: 1
+mdoc_agent:
+  cuda_visible_devices: 0,1,2,3
+  truncate_len: null
+  save_freq: 10
+  ans_key: ans_${run-name}
+  save_message: false
+  agents:
+  - agent: image_agent
+    model: qwen2vl
+  - agent: text_agent
+    model: llama31
+  - agent: general_agent
+    model: qwen2vl
+  sum_agent:
+    agent: sum_agent
+    model: qwen2vl
+eval_agent:
+  truncate_len: null
+  ans_key: ans_${run-name}
+  agent: base
+  model: openai
+name: FetaTab
+sample_path: data/FetaTab/samples.json
+sample_with_retrieval_path: data/FetaTab/sample-with-retrieval-results.json
+document_path: data/FetaTab/documents
+extract_path: tmp/feta
+result_dir: results/feta
+top_k: 4
+max_page: 20
+max_character_per_page: 1000
+vlm_max_page: 10
+use_mix: true
+question_key: question
+r_text_key: r_text
+r_image_key: r_image
+r_mix_key: r_mix
+page_id_key: page_id

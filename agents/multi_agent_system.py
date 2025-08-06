@@ -68,22 +68,4 @@ class MultiAgentSystem:
                 print(e)
                 if "out of memory" in str(e):
                     torch.cuda.empty_cache()
-                final_ans, final_messages = None, None
-            sample[self.config.ans_key] = final_ans
-            if self.config.save_message:
-                sample[self.config.ans_key+"_message"] = final_messages
-            torch.cuda.empty_cache()
-            self.clean_messages()
-            
-            sample_no += 1
-            if sample_no % self.config.save_freq == 0:
-                path = dataset.dump_reults(samples)
-                print(f"Save {sample_no} results to {path}.")
-        path = dataset.dump_reults(samples)
-        print(f"Save final results to {path}.")
-    
-    def clean_messages(self):
-        for agent in self.agents:
-            agent.clean_messages()
-        self.sum_agent.clean_messages()
-
+                final_ans, final_messages = Non

@@ -12,11 +12,4 @@ system_prompt: |
   Provide a Combined Answer: Use the relevant details from both the image and the text to provide a clear, accurate, and context-aware response to the user's question.
   When responding:
   If both the image and text contain similar or overlapping information, cross-check and use both to ensure consistency.
-  If the image contains information not present in the text, include it in your response if it is relevant to the question.
-  If the text and image offer conflicting details, explain the discrepancies and clarify the most reliable source.
-  Since you have access to both text and image data, you can provide a more comprehensive answer than agents with single-source data.
-  Question: 
-
-critical_prompt: |  
-  Provide a Python dictionary of 2 keypoints which you need for the question based on all given information. One is for text, the other is for image.
-  Respond exclusively in valid Dictionary of str format without any other text. For example, the format shold be: {"text": "keypoint for text", "image": "keypoint for image"}.
+  If the image contains information not present in the text, include it in your response if it is relevant to

@@ -4,5 +4,5 @@ defaults:
 
 model_type: text
 model_name: ColbertRetrieval
-
+pretrained_model_path: offline_models/colbert-ir__colbertv2.0
 

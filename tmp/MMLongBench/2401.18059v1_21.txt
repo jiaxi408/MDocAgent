@@ -1,0 +1,71 @@
+Published as a conference paper at ICLR 2024
+Figure 7: Histogram showing the percentage of nodes retrieved from different layers of the RAPTOR
+tree across three datasets (NarrativeQA, Quality, and Qasper) using three retrievers (SBERT, BM25,
+and DPR). The data indicate that a substantial portion of the nodes contributing to the final retrieval
+comes from non-leaf layers, with a notable percentage from the first and second layers, highlighting
+the importance of RAPTOR’s hierarchical summarization in the retrieval process.
+Table 15: Performance of RAPTOR when querying different layers of the tree for Story 3.
+Layers Queried / Start Layer
+Layer 0 (Leaf Nodes)
+Layer 1
+Layer 2
+1 layer
+66.6
+61.1
+61.1
+2 layers
+-
+66.6
+66.6
+3 layers
+-
+-
+83.3
+Table 16: Performance of RAPTOR when querying different layers of the tree for Story 4.
+Layers Queried / Start Layer
+Layer 0 (Leaf Nodes)
+Layer 1
+1 layer
+94.7
+84.2
+2 layers
+-
+89.4
+Table 17: Performance of RAPTOR when querying different layers of the tree for Story 5.
+Layers Queried / Start Layer
+Layer 0 (Leaf Nodes)
+Layer 1
+1 layer
+57.9
+47.3
+2 layers
+-
+68.4
+I.2
+WHICH LAYERS DO RETRIEVED NODES COME FROM ?
+We further conduct an ablation study across all three datasets and across three different retrievers
+with RAPTOR with the collapsed tree retrieval to examine the layers from which the retrieved nodes
+originate. We observe that between 18.5% to 57% of the retrieved nodes come from non-leaf nodes.
+As illustrated in Figure 7, the retrieval pattern across layers reveals the importance of RAPTOR’s
+multi-layered tree structure. Notably, a significant percentage of the nodes retrieved by RAPTOR
+using the DPR retriever for the NarrativeQA dataset come from the first and second layers of the
+tree, as opposed to the leaf nodes. This pattern is consistent across the other datasets and retrievers,
+albeit with varying percentages.
+Table 18: Percentage of nodes from non-leaf nodes across different datasets and retrievers
+Dataset
+DPR
+SBERT
+BM25
+NarrativeQA
+57.36%
+36.78%
+34.96%
+Quality
+32.28%
+24.41%
+32.36%
+Qasper
+22.93%
+18.49%
+22.76%
+22

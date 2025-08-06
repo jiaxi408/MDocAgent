@@ -9,35 +9,64 @@ from mydatasets.base_dataset import BaseDataset
 class ColbertRetrieval(BaseRetrieval):
     def __init__(self, config):
         self.config = config
-    
+
     def prepare(self, dataset: BaseDataset):
         samples = dataset.load_data(use_retreival=True)
-        RAG = RAGPretrainedModel.from_pretrained("offline_models/colbert-ir__colbertv2.0")
-        doc_index:dict = {}
+        model_path = getattr(self.config, "pretrained_model_path", "colbert-ir/colbertv2.0")
+
+        print(f"[INFO] Attempting to load RAG model from: {model_path}")
+
+        # 设置是否使用离线模式
+        if os.path.isdir(model_path):
+            print(f"[INFO] Detected local model directory: {model_path}")
+            os.environ["HF_HUB_OFFLINE"] = "1"
+            os.environ["TRANSFORMERS_OFFLINE"] = "1"
+        else:
+            print(
+                f"[WARNING] Model path '{model_path}' is not a local directory. Will try to connect to HuggingFace Hub.")
+
+        # 安全加载模型
+        try:
+            RAG = RAGPretrainedModel.from_pretrained(model_path)
+        except TypeError as e:
+            print(f"[ERROR] Unexpected TypeError while loading model: {e}")
+            RAG = RAGPretrainedModel.from_pretrained(model_path)
+        except Exception as e:
+            print(f"[ERROR] Failed to load RAG model from: {model_path}")
+            raise e
+
+        doc_index: dict = {}
         error = 0
+
         for sample in tqdm(samples):
             if self.config.r_text_index_key in sample and os.path.exists(sample[self.config.r_text_index_key]):
                 continue
             if sample[self.config.doc_key] in doc_index:
                 sample[self.config.r_text_index_key] = doc_index[sample[self.config.doc_key]]
                 continue
+
             content_list = dataset.load_processed_content(sample)
             text = [content.txt.replace("\n", "") for content in content_list]
+
             try:
-                index_path = RAG.index(index_name=dataset.config.name+ "-" + self.config.text_question_key + "-" + sample[self.config.doc_key], collection=text)
+                index_path = RAG.index(
+                    index_name=f"{dataset.config.name}-{self.config.text_question_key}-{sample[self.config.doc_key]}",
+                    collection=text
+                )
                 doc_index[sample[self.config.doc_key]] = index_path
                 sample[self.config.r_text_index_key] = index_path
             except Exception as e:
                 error += 1
-                if error>len(samples)/100:
-                    print("Too many error cases. Exit process.")
+                print(f"[ERROR] Error processing {sample[self.config.doc_key]}: {e}")
+                sample[self.config.r_text_index_key] = ""
+                if error > len(samples) / 100:
+                    print("[FATAL] Too many error cases. Exiting process.")
                     import sys
                     sys.exit(1)
-                print(f"Error processing {sample[self.config.doc_key]}: {e}")
-                sample[self.config.r_text_index_key] = ""
-            
-        dataset.dump_data(samples, use_retreival = True)
-        
+
+        dataset.dump_data(samples, use_retreival=True)
+        print(f"[INFO] Retrieval indexing completed. Total samples: {len(samples)}")
+
         return samples
 
     def find_sample_top_k(self, sample, top_k: int, page_id_key: str):

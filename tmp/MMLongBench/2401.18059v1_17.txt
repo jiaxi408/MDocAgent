@@ -1,0 +1,50 @@
+Published as a conference paper at ICLR 2024
+Example:
+Text of the child nodes:
+”And you will come with me to my people? We may live here among them, and
+you will be a great warrior–oh, when Jor dies you may even be chief, for there is
+none so mighty as my warrior...”But your father will not permit it–Jor, my father,
+High Chief of the Galus, will not permit it, for like me you are cos-ata-lo. Oh, Co-
+Tan, if we but could!... Bradley noticed that she spoke in English–broken English
+like Co-Tan’s but equally appealing.
+Summary found in the parent of that node:
+The protagonist, Bradley, is being asked by Co-Tan to stay with her people and
+become a great warrior, but he refuses and must return to his own country. Tom
+Billings of Santa Monica arrives and tells them he came to search for a man named
+Bowen J. Tyler, Jr. Ajor, Co-Tan’s sister, is excited about the possibility of going
+to Tom’s country to see strange and wonderful things...
+The hallucination here is that the summary states that Jr. Ajor and Co-Tan are sisters, but does not
+explicitly mention or imply this.
+Upon reviewing all parent nodes, we found that hallucinations did not propagate to higher layers.
+Generally, the hallucinations were minor and did not alter the thematic interpretation of the text.
+E.3
+IMPACT ON QA TASKS
+In our findings, hallucinations had no discernible impact on the performance of QA tasks. This sug-
+gests that hallucination is not a major concerns for the summarization component in our RAPTOR
+architecture.
+F
+PSEUDOCODE FOR RETRIEVAL METHODS
+Algorithm 1 Tree Traversal Algorithm
+function TRAVERSETREE(tree, query, k)
+Scurrent ←tree.layer[0]
+for layer in range(tree.num layers) do
+topk ←[]
+for node in Scurrent do
+score ←dot product(query, node)
+top k.append((node, score))
+end for
+Slayer ←sorted(top k)[:k].nodes
+Scurrent ←Slayer
+end for
+return S0 ∪S1 ∪S2 ∪. . . ∪Sk
+end function
+G
+QUALITATIVE ANALYSIS
+To qualitatively examine RAPTOR’s retrieval process, we test it on thematic, multi-hop questions
+about a 1500-word version of the fairytale Cinderella. We compare the context retrieved by RAP-
+TOR with the context retrieved by Dense Passage Retrieval (DPR). Figure 4 in the main paper details
+the retrieval process within RAPTOR’s tree structure for two questions. The nodes that RAPTOR
+selects for each question are highlighted, while the leaf nodes that DPR selects for the same question
+are indicated with arrows. This comparison illustrates the advantage of RAPTOR’s tree structure.
+RAPTOR selects nodes from different layers depending on the level of granularity required by the
+18

@@ -1,0 +1,8 @@
+defaults:
+  - base
+  - _self_
+
+model_type: text
+model_name: ColbertRetrieval
+pretrained_model_path: colbert-ir/colbertv2.0
+

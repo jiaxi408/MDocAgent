@@ -1,0 +1,52 @@
+Published as a conference paper at ICLR 2024
+RAPTOR: RECURSIVE ABSTRACTIVE PROCESSING
+FOR TREE-ORGANIZED RETRIEVAL
+Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D. Manning
+Stanford University
+psarthi@cs.stanford.edu
+ABSTRACT
+Retrieval-augmented language models can better adapt to changes in world state
+and incorporate long-tail knowledge. However, most existing methods retrieve
+only short contiguous chunks from a retrieval corpus, limiting holistic under-
+standing of the overall document context. We introduce the novel approach of
+recursively embedding, clustering, and summarizing chunks of text, constructing
+a tree with differing levels of summarization from the bottom up. At inference
+time, our RAPTOR model retrieves from this tree, integrating information across
+lengthy documents at different levels of abstraction. Controlled experiments show
+that retrieval with recursive summaries offers significant improvements over tra-
+ditional retrieval-augmented LMs on several tasks. On question-answering tasks
+that involve complex, multi-step reasoning, we show state-of-the-art results; for
+example, by coupling RAPTOR retrieval with the use of GPT-4, we can improve
+the best performance on the QuALITY benchmark by 20% in absolute accuracy.
+1
+INTRODUCTION
+Large Language Models (LLMs) have emerged as transformative tools showing impressive perfor-
+mance on many tasks. With the growing size of LLMs, they can serve standalone as very effective
+knowledge stores, with facts encoded within their parameters (Petroni et al., 2019; Jiang et al., 2020;
+Talmor et al., 2020; Rae et al., 2021; Hoffmann et al., 2022; Chowdhery et al., 2022; Bubeck et al.,
+2023; Kandpal et al., 2023) and models can be further improved with fine-tuning on downstream
+tasks (Roberts et al., 2020). Nevertheless, even a large model does not contain sufficient domain-
+specific knowledge for particular tasks and the world continues to change, invalidating facts in the
+LLM. Updating the knowledge of these models through additional fine-tuning or editing is difficult,
+particularly when dealing with vast text corpora (Lewis et al., 2020; Mitchell et al., 2022). An alter-
+native approach, pioneered in open domain question answering systems (Chen et al., 2017; Yu et al.,
+2018), is to index large quantities of text, after splitting it into chunks (paragraphs), in a separate
+information retrieval system. Retrieved information is then presented to the LLM along with the
+question as context (“retrieval augmentation”, Lewis et al., 2020; Izacard et al., 2022; Min et al.,
+2023; Ram et al., 2023), making it easy to provide a system with current knowledge particular to
+some domain and enabling easy interpretability and provenance tracking, whereas the parametric
+knowledge of LLMs is opaque and difficult to trace back to its source (Akyurek et al., 2022).
+Nevertheless, existing retrieval-augmented approaches also have flaws. The one we tackle is that
+most existing methods retrieve only a few short, contiguous text chunks, which limits their ability
+to represent and leverage large-scale discourse structure. This is particularly relevant for thematic
+questions that require integrating knowledge from multiple parts of a text, such as understanding
+an entire book, as in the NarrativeQA dataset (Koˇcisk`y et al., 2018). Consider the fairy tale of
+Cinderella, and the question “How did Cinderella reach her happy ending?”. The top-k retrieved
+short contiguous texts will not contain enough context to answer the question.
+To address this, we design an indexing and retrieval system that uses a tree structure to capture both
+high-level and low-level details about a text. As shown in Figure 1, our system, RAPTOR, clusters
+chunks of text, generates text summaries of those clusters, and then repeats, generating a tree from
+the bottom up. This structure enables RAPTOR to load into an LLM’s context chunks representing
+the text at different levels so that it can effectively and efficiently answer questions at different levels.
+1
+arXiv:2401.18059v1  [cs.CL]  31 Jan 2024
