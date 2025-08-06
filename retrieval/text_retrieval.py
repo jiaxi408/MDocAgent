@@ -16,23 +16,33 @@ class ColbertRetrieval(BaseRetrieval):
 
         print(f"[INFO] Attempting to load RAG model from: {model_path}")
 
-        # 设置是否使用离线模式
+        # 设置是否使用离线模式。如果提供的路径是目录且存在模型权重，则优先使用本地模型。
+        hf_identifier = model_path  # 默认直接使用配置中的路径
         if os.path.isdir(model_path):
-            print(f"[INFO] Detected local model directory: {model_path}")
-            os.environ["HF_HUB_OFFLINE"] = "1"
-            os.environ["TRANSFORMERS_OFFLINE"] = "1"
+            weight_file = os.path.join(model_path, "pytorch_model.bin")
+            if os.path.exists(weight_file):
+                print(f"[INFO] Detected local model directory: {model_path}")
+                os.environ["HF_HUB_OFFLINE"] = "1"
+                os.environ["TRANSFORMERS_OFFLINE"] = "1"
+            else:
+                # 目录存在但未包含模型文件，尝试根据目录名推断出HF仓库名称并从线上加载
+                hf_identifier = os.path.basename(model_path).replace("__", "/")
+                print(
+                    f"[WARNING] Local directory '{model_path}' missing model files. Falling back to HuggingFace repo '{hf_identifier}'."
+                )
         else:
             print(
-                f"[WARNING] Model path '{model_path}' is not a local directory. Will try to connect to HuggingFace Hub.")
+                f"[WARNING] Model path '{model_path}' is not a local directory. Will try to connect to HuggingFace Hub."
+            )
 
         # 安全加载模型
         try:
-            RAG = RAGPretrainedModel.from_pretrained(model_path)
+            RAG = RAGPretrainedModel.from_pretrained(hf_identifier)
         except TypeError as e:
             print(f"[ERROR] Unexpected TypeError while loading model: {e}")
-            RAG = RAGPretrainedModel.from_pretrained(model_path)
+            RAG = RAGPretrainedModel.from_pretrained(hf_identifier)
         except Exception as e:
-            print(f"[ERROR] Failed to load RAG model from: {model_path}")
+            print(f"[ERROR] Failed to load RAG model from: {hf_identifier}")
             raise e
 
         doc_index: dict = {}
