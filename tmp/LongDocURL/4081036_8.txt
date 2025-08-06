@@ -1,0 +1,76 @@
+ 
+The following table provides a summary of cash, cash equivalents and restricted cash that constitutes the total amounts shown in the consolidated statements of cash flows
+as of April 30, 2021 and 2020:
+ 
+ 
+ 
+As of April 30,
+ 
+ 
+ 
+2021
+  
+2020
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+Cash and cash equivalents
+ $
+21,278   
+$
+6,187  
+Restricted cash
+  
+631   
+ 
+200  
+Total cash, cash equivalents and restricted cash
+ $
+21,909   
+$
+6,387
+ 
+Restricted cash is included as a component of other assets in the consolidated balance sheets.
+Marketable Securities
+Our investments in debt securities are classified as available-for-sale and are carried at fair value, with the unrealized gains and losses, net of tax, reported as a component
+of accumulated other comprehensive loss in stockholders’ equity. Realized gains and losses and declines in value determined to be other than temporary are based on the
+specific identification method and are included as a component of other expense, net in the consolidated statements of operations and comprehensive loss.
+We evaluate our investments with unrealized losses for other-than-temporary impairment. When assessing investments for other-than-temporary declines in value, we
+consider such factors as, among other things, how significant the decline in value is as a percentage of the original cost, how long the market value of the investment has
+been less than its original cost, our ability and intent to retain the investment for a period of time sufficient to allow for any anticipated recovery in fair value and market
+conditions in general. If any adjustment to fair value reflects a decline in the value of the investment that we consider to be “other than temporary,” we reduce the
+investment to fair value through a charge to the consolidated statement of operations and comprehensive loss. No such adjustments were necessary during the periods
+presented.
+Fair Value Measurements
+Certain assets and liabilities are carried at fair value under U.S. GAAP. Fair value is defined as the exchange price that would be received for an asset or paid to transfer a
+liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement
+date. Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs. Financial assets and
+liabilities carried at fair value are to be classified and disclosed in one of the following three levels of the fair value hierarchy, of which the first two are considered
+observable and the last is considered unobservable:
+ 
+•
+Level 1—Quoted prices in active markets for identical assets or liabilities.
+ 
+•
+Level 2—Observable inputs (other than Level 1 quoted prices), such as quoted prices in active markets for similar assets or liabilities, quoted prices in markets
+that are not active for identical or similar assets or liabilities, or other inputs that are observable or can be corroborated by observable market data.
+ 
+•
+Level 3—Unobservable inputs that are supported by little or no market activity and that are significant to determining the fair value of the assets or liabilities,
+including pricing models, discounted cash flow methodologies and similar techniques.
+Our cash equivalents and marketable securities are carried at fair value determined according to the fair value hierarchy described above. The carrying values of our
+accounts and other receivables, unbilled receivables, accounts payable, accrued expenses, and the Note approximate their fair values due to the short-term nature of these
+assets and liabilities.
+ 
+Concentration of Credit Risk and of Significant Customers
+Financial instruments which potentially expose us to concentrations of credit risk include cash, cash equivalents and restricted cash, marketable securities and accounts
+receivable. We have cash investment policies which, among other things, limit investments to investment-grade securities. We restrict our cash equivalents and
+marketable securities to repurchase agreements with major banks and U.S. government and corporate securities which are subject to minimal credit and market risk. We
+perform ongoing credit evaluations of our customers.
+We sell our software products and services worldwide primarily to service providers consisting of operators, telecommunications companies, satellite operators and
+broadcasters. Two customers accounted for 18% and 16% of total revenue for the three months ended April 30, 2021 and two customers accounted for 15% and 13% of
+total revenue for the three months ended April 30, 2020. Three customers accounted for 22%, 16%, and 15% of the accounts receivable balance as of April 30, 2021. Two
+customers accounted for 18% and 16% of the accounts receivable balance as of January 31, 2021.
+8

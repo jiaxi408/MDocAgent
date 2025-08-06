@@ -1,0 +1,31 @@
+- 8 -
+Palma «H»
+1.4 Refrigeration
+There is a refrigeration unit that functions with gas refrigerant R-134a, without CFC and
+equipped with a 12 cm3, capable of lowering the temperature of the container to 3 OC
+with a room temperature of 32 OC without direct sunlight.
+In tests performed at a room temperature of 32 OC, a relative humidity of 75%, and with
+the product at room temperature, when the machine is connected for the first time it
+took 3 hours for the products to reach 3 OC.
+The entire container can be maintained at a single temperature or may be divided into two
+sections with different temperatures.
+The temperature is controlled by the Control Card which uses a digital electronic ther-
+mometer located in the lower part of the body which continuosly monitors the tempera-
+ture of the product container.
+Thermometric sensor
+When the machine operates at a certain temperature, the minimum programmable tem-
+perature is 3 OC.  However, the temperature of the product container will vary between 2
+OC and 4 OC, that is, the cold group disconnection occurs at 1 OC below the programmed
+temperature and reconnection at 1 OC above the programmed temperature.
+When the container has been divided into two different temperature zones, the minimum
+possible temperature is 3 OC in the lower section and 12 O in the upper one.  In this case
+group disconnection will take place when the programmed temperature is reached and
+reconnection will occur when the temperature surpasses the programmed temperature
+by 1 OC.
+If for any reason the cold group should be functioning continuously for four hours, the
+control card will automatically disconnect it for 30 minutes to permit defrosting and im-
+prove the group's performance.
+If the groups stops for temperature reasons, it will remain so for a minimum of 10 minutes
+and if it does so due to a power outage, the group will take 1 minute to resume operation.
+All of these measures are designed to improve the group's performance.
+Figure 9

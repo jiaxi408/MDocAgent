@@ -1,0 +1,37 @@
+ 
+Preferred Stock shall be entitled to receive, prior to any distribution made to the holders of shares of stock ranking junior to the Series A
+Preferred Stock, an aggregate amount per share, subject to the provision for adjustment hereinafter set forth, equal to one hundred (100) times
+the aggregate amount to be distributed per share to holders of shares of Common Stock plus an amount equal to any accrued and unpaid
+dividends (the “Series A Liquidation Preference”). In the event, however, that there are not sufficient assets available to permit payment in full
+of the Series A Liquidation Preference and the liquidation preferences of all other series of preferred stock, if any, that rank on a parity with the
+Series A Preferred Stock, then such remaining assets shall be distributed ratably to the holders of such parity shares in proportion to their
+respective liquidation preferences. In the event the Corporation shall at any time declare or pay any dividend on the Common Stock payable in
+shares of Common Stock, or effect a subdivision or combination or consolidation of the outstanding shares of Common Stock (by
+reclassification or otherwise than by payment of a dividend in shares of Common Stock) into a greater or lesser number of shares of Common
+Stock, then in each such case the aggregate amount to which holders of shares of Series A Preferred Stock were entitled immediately prior to
+such event under the preceding sentence shall be adjusted by multiplying such amount by a fraction the numerator of which is the number of
+shares of Common Stock outstanding immediately after such event and the denominator of which is the number of shares of Common Stock
+that were outstanding immediately prior to such event.
+ 
+Section 7. Consolidation, Merger, etc. In case the Corporation shall enter into any consolidation, merger, combination or other
+transaction in which the shares of Common Stock are exchanged for or changed into other stock or securities, cash and/or any other property,
+then in any such case each share of Series A Preferred Stock shall at the same time be similarly exchanged or changed into an amount per
+share, subject to the provision for adjustment hereinafter set forth, equal to one hundred (100) times the aggregate amount of stock, securities,
+cash and/or any other property (payable in kind), as the case may be, into which or for which each share of Common Stock is changed or
+exchanged. In the event the Corporation shall at any time declare or pay any dividend on the Common Stock payable in shares of Common
+Stock, or effect a subdivision or combination or consolidation of the outstanding shares of Common Stock (by reclassification or otherwise
+than by payment of a dividend in shares of Common Stock) into a greater or lesser number of shares of Common Stock, then in each such case
+the amount set forth in the preceding sentence with respect to the exchange or change of shares of Series A Preferred Stock shall be adjusted by
+multiplying such amount by a fraction, the numerator of which is the number of shares of Common Stock outstanding immediately after such
+event and the denominator of which is the number of shares of Common Stock that were outstanding immediately prior to such event.
+ 
+Section 8. Amendment. So long as any share of the Series A Preferred Stock is outstanding, neither the Company's Certificate of
+Incorporation nor this Certificate of Designation shall be amended in any manner, including in a merger or consolidation, which would alter,
+change, or repeal the powers, preferences or special rights of the Series A Preferred Stock so as to affect them adversely without the affirmative
+vote of the holders of at least two​ thirds of the outstanding shares of Series A Preferred Stock, voting together as a single class.
+ 
+Section 9. Rank. The Series A Preferred Stock shall rank, with respect to the payment of dividends and upon liquidation, dissolution
+and winding up, junior to all series of Preferred Stock, unless the terms of any such series shall provide otherwise.
+ 
+ 
+A-6

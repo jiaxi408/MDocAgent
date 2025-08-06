@@ -1,0 +1,77 @@
+ 
+period of benefit in a manner that is consistent with the transfer of the related goods or services to which the asset relates. The judgments made in determining the amount
+of costs incurred include whether the commissions are in fact incremental and would not have occurred absent the customer contract and the estimate of the amortization
+period. The commissions and Spiffs related to professional services are amortized over time as work is completed. The commissions and Spiffs for hardware and software
+maintenance are amortized over the life of the contract. These costs are periodically reviewed for impairment. We determined that no impairment of these assets existed as
+of April 30, 2021 or January 31, 2021. We have elected to apply the practical expedient and recognize the incremental costs of obtaining contracts as an expense when
+incurred if the amortization period of the assets that we otherwise would have recognized is one year or less. Total deferred capitalized commission costs were $504
+thousand as of April 30, 2021 compared to $553 thousand as of January 31, 2021. Current deferred capitalized commission costs are included in prepaid expense and
+other current assets in our consolidated balance sheets and non-current deferred capitalized commission costs are included in other assets in our consolidated balance
+sheets. Capitalized commissions expensed during the three months ended April 30, 2021 and 2020 included in the consolidated statement of operations and
+comprehensive loss were $49 thousand and $135 thousand, respectively.
+Leases
+We account for our leases in accordance with ASC 842, Leases. A contract is accounted for as a lease when we have the right to control the asset for a period of time while
+obtaining substantially all of the asset’s economic benefits. We determine if an arrangement is a lease or contains an embedded lease at inception. For arrangements that
+meet the definition of a lease, we determine the initial classification and measurement of our right-of-use operating lease asset and corresponding liability at the lease
+commencement date. We determine the classification and measurement of a modified lease at the date it is modified. The lease term includes only renewal options that are
+reasonably assured to exercise. The present value of lease payments is typically determined by using the Company’s estimated secured incremental borrowing rate for the
+associated lease term as interest rates implicit in the leases are not normally readily determinable. Management’s policy is to utilize the practical expedient to not record
+leases with an original term of twelve months or less on our consolidated balance sheets. Lease payments are recognized in the consolidated statements of operations and
+comprehensive loss on a straight-line basis over the lease term.
+Our existing leases are for facilities and equipment. None of our leases are with related parties. In addition to rent, office leases may require us to pay additional amounts
+for taxes, insurance, maintenance and other expenses, which are generally referred to as non-lease components. As a practical expedient, we account for the non-lease
+components together with the lease components as a single lease component for all of our leases. Only the fixed costs for leases are accounted for as a single lease
+component and recognized as part of a right-of-use asset and liability.
+Net Loss Per Share
+Basic net loss per share is computed by dividing net loss by the weighted average number of unrestricted common shares outstanding during the period. Diluted net loss
+per share is computed by dividing net loss by the sum of the weighted average number of unrestricted common shares outstanding during the period and the weighted
+average number of potential common shares from the assumed exercise of stock options and the vesting of shares of restricted and deferred common stock units using the
+“treasury stock” method when the effect is not anti-dilutive. In periods in which we report a net loss, diluted net loss per share is the same as basic net loss per share.
+The number of common shares used in the computation of diluted net loss per share for the periods presented does not include the effect of the following potentially
+outstanding common shares because the effect would have been anti-dilutive:
+ 
+ 
+ 
+For the Three Months
+Ended April 30,
+ 
+ 
+ 
+2021
+  
+2020
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+Stock options
+ 
+ 
+1,897   
+ 
+766  
+Restricted stock units
+ 
+ 
+135   
+ 
+58  
+Deferred stock units
+ 
+ 
+41   
+ 
+81  
+ 
+ 
+ 
+2,073   
+ 
+905
+ 
+Recently Issued Accounting Pronouncements
+In December 2019, the Financial Accounting Standards Board (the “FASB”) issued Accounting Standards Update (“ASU”) No. 2019-12, Income Taxes (Topic 740),
+which simplifies the accounting for income taxes and removes certain exceptions and improves consistent application of accounting principles for certain areas in Topic
+740. ASU 2019-12 was effective in the first quarter of fiscal 2022 and did not have an effect on our consolidated financial statements.
+12

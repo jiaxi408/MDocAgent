@@ -1,0 +1,61 @@
+ 
+Goodwill and Acquired Intangible Assets
+We record goodwill when consideration paid in a business acquisition exceeds the value of the net assets acquired. Our estimates of fair value are based upon assumptions
+believed to be reasonable at that time but such estimates are inherently uncertain and unpredictable. Assumptions may be incomplete or inaccurate and unanticipated
+events or circumstances may occur, which may affect the accuracy or validity of such assumptions, estimates or actual results.
+Goodwill is tested for impairment annually and more frequently if events and circumstances indicate that the asset might be impaired. We have determined that there is a
+single reporting unit for the purpose of conducting the goodwill impairment assessment. Goodwill impairment is recorded if the amount of our carrying value exceeds our
+fair value, not to exceed the carrying amount of goodwill. Factors that could lead to a future impairment include material uncertainties such as a significant reduction in
+projected revenues, a deterioration of projected financial performance, future acquisitions and/or mergers, and a decline in our market value as a result of a significant
+decline in our stock price. There were no impairment charges recorded in fiscal 2021 or the first quarter of fiscal 2022.
+Intangible assets are recorded at their estimated fair values at the date of acquisition. We amortize intangible assets over their estimated useful lives based on the pattern
+of consumption of the economic benefits or, if that pattern cannot be readily determined, on a straight-line basis.
+Impairment of Long-Lived Assets
+Long-lived assets primarily consist of property, plant and equipment and intangible assets with finite lives. Long-lived assets are evaluated for impairment whenever
+events or changes in circumstances indicate that the carrying amount of an asset or group of assets may not be recoverable. Recoverability of long-lived assets or groups
+of assets is assessed based on a comparison of the carrying amount to the estimated future undiscounted cash flows. If estimated future undiscounted net cash flows are
+less than the carrying amount, the asset is considered impaired and expense is recorded at an amount required to reduce the carrying amount to fair value. Determining the
+fair value of long-lived assets includes significant judgment by management, and different judgments could yield different results.
+We assess the useful lives and possible impairment of existing recognized long-lived assets whenever events or changes in circumstances occur that indicate that it is
+more likely than not that an impairment has occurred. Factors considered important which could trigger a review include:
+ 
+•
+significant underperformance relative to historical or projected future operating results;
+ 
+•
+significant changes in the manner of use of the acquired assets or the strategy for our overall business;
+ 
+•
+identification of other impaired assets within a reporting unit;
+ 
+•
+significant negative industry or economic trends;
+ 
+•
+a significant decline in our stock price for a sustained period; and
+ 
+•
+a decline in our market capitalization relative to net book value.
+Determining whether a triggering event has occurred involves significant judgment.
+Revenue Recognition
+Overview
+We adopted Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers, effective February 1, 2018, using the modified retrospective
+method. Our revenue is derived from sales of software licenses and associated third party hardware and support services, as well as professional services and support fees
+related to our software licenses.
+The Company recognizes revenue from contracts with customers using a five-step model, which is described below:
+ 
+•
+identify the customer contract;
+ 
+•
+identify performance obligations that are distinct;
+ 
+•
+determine the transaction price;
+ 
+•
+allocate the transaction price to the distinct performance obligations; and
+ 
+•
+recognize revenue as the performance obligations are satisfied.
+9

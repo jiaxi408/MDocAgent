@@ -1,0 +1,43 @@
+ 
+not have a history of selling the Framework software on a standalone basis. We recognize the portion of the transaction price allocated to the Framework software on a
+residual basis, as we have at least one performance obligation for which the SSP is observable. The Company notes that both hardware and support services represent
+observable pricing. The SSP for our legacy software is also recognized on a residual basis, as we have observable SSP for the associated support services sold with the
+software license based on historical observable data of selling support contracts on a standalone basis. We may also license our software as a SaaS type license, whereby
+our customer only has a right to access the software over a specified time period and the service includes technical support and unspecified upgrades and bug fixes. We
+recognize the full value of the contract ratably over the contractual term of the SaaS license.
+Our services revenue is comprised of support services, software license implementation services, engineering services, training and reimbursable expenses. We have
+concluded that services are distinct performance obligations, with the exception of engineering services. Engineering services may be provided on a standalone basis or
+bundled with a license when we are providing custom development.
+We utilize the cost-plus margin method to determine the SSP for our Framework support services offerings and hardware sales. For Framework support services, we
+calculate the average cost of support to within a small range to arrive at an average expected cost. Legacy support services are priced as a percentage of the list price of the
+related software license and hardware. Historically, we determined the SSP of the support services based on this pricing relationship and observable data from standalone
+sales of support contracts. The expected cost-plus margin for hardware is based on the cost of the hardware from third parties, plus a reasonable markup that the Company
+believes is reflective of a market-based reseller margin.
+The SSP for services in time and materials contracts is determined by observable prices in standalone services arrangements. We estimate the SSP for fixed price services
+based on estimated hours adjusted for historical experience at time and material rates charged in standalone services arrangements. Revenue for fixed price services is
+recognized over time as the services are provided based on an input measure of hours incurred to total estimated hours.
+Some of our contracts have payment terms that differ from the timing of revenue recognition, which requires us to assess whether the transaction price for those contracts
+include a significant financing component. We have elected the practical expedient that permits an entity to not adjust for the effects of a significant financing component
+if we expect that at the contract inception, the period between when the entity transfers a promised good or service to a customer and when the customer pays for that
+good or service, will be one year or less. For those contracts in which the period exceeds the one-year threshold, this assessment, as well as the quantitative estimate of the
+financing component and its relative significance, requires judgment. We estimate the significant financing component provided to our customers with extended payment
+terms by determining the present value of the future payments by applying an average standard industry discount rate that reflects the customer’s creditworthiness.
+Payment terms with customers typically require payment 30 days from invoice date. Our agreements with customers do not provide for any refunds for services or
+products and therefore no specific reserve for such is maintained. In the infrequent instances where customers raise a concern over delivered products or services, we have
+endeavored to remedy the concern and all costs related to such matters have been insignificant in all periods presented.
+We occasionally enter into amendments to previously executed contracts that may constitute contract modifications. The amendments are assessed to determine if (1) the
+additional products and services are distinct from the product and services in the original arrangement; and (2) the amount of consideration expected for the added
+products and services reflects the SSP of those products and services. An amendment or contract modification meeting both criteria is accounted for as a separate contract.
+A contract modification not meeting both criteria is considered a change to the original contract and is accounted for on either a prospective basis as a termination of the
+existing contract and the creation of a new contract or a cumulative catch-up basis.
+Contract Balances
+Contract assets consist of unbilled revenue, which is recognized as work progresses in accordance with agreed-upon contractual terms, either at periodic intervals or upon
+achievement of contractual milestones. Unbilled receivables expected to be billed and collected within one year are classified as current assets or long-term assets if
+expected to be billed and collected after one year (see Note 10).
+Costs to Obtain and Fulfill a Contract
+ 
+We recognize an asset for the incremental costs of obtaining a contract with a customer if we expect the benefit of those costs to be longer than one year. We have
+determined that commissions and special incentive payments (“Spiffs”) for hardware and software maintenance and support and professional services paid under our sales
+incentive programs meet the requirements to be capitalized under ASC 340-40. Costs to obtain a contract are amortized as selling and marketing expense over the
+expected
+11

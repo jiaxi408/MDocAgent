@@ -1,0 +1,42 @@
+ 
+Net cash provided by investing activities
+Net cash provided by investing activities was $0.2 million and $1.1 million for the three months ended April 30, 2021 and April 30, 2020, respectively, due to proceeds
+from the sales and maturities of our marketable securities partially offset by purchases of property and equipment.
+ 
+Net cash provided by financing activities
+Net cash provided by financing activities was $17.6 million for the three months ended April 30, 2021 due to $0.1 million in proceeds from stock option exercises and
+$17.5 million in net proceeds from the issuance of common stock in relation to the Offering. Net cash provided by financing activities was $0.1 million for the three
+months ended April 30, 2020 due to proceeds from stock option exercises and purchases through the Company’s Employee Stock Purchase Plan.
+Impact of COVID-19 Pandemic
+In the first quarter of fiscal 2021, concerns related to the spread of COVID-19 began to create global business disruptions as well as disruptions in our operations and to
+create potential negative impacts on our revenues and other financial results. COVID-19 was declared a pandemic by the World Health Organization on March 11, 2020.
+The extent to which COVID-19 will impact our financial condition or results of operations is currently uncertain and depends on factors including the impact on our
+customers, partners, and vendors and on the operation of the global markets in general. Due to our business model, the effect of COVID-19 on our results of operations
+may also not be fully reflected for some time.
+We are currently conducting business with substantial modifications to employee travel, employee work locations, virtualization or cancellation of customer and
+employee events, and remote sales, implementation, and support activities, among other modifications. These decisions may delay or reduce sales and harm productivity
+and collaboration. We have observed other companies and governments making similar alterations to their normal business operations, and in general, the markets are
+experiencing a significant level of uncertainty at the current time. Virtualization of our team’s sales activities could foreclose future business opportunities, particularly as
+our customers limit spending, which could negatively impact the willingness of our customers to enter into or renew contracts with us.  The pandemic has impacted our
+ability to complete certain implementations, negatively impacting our ability to recognize revenue, and could also negatively impact the payment of accounts receivable
+and collections. We continue to realize our on-going cost optimization efforts in response to the impact of the pandemic. We may take further actions that alter our
+business operations as the situation evolves. As a result, the ultimate impact of the COVID-19 pandemic and the effects of the operational alterations we have made in
+response on our business, financial condition, liquidity, and financial results cannot be predicted at this time.
+On March 27, 2020, President Trump signed into law the Coronavirus Aid, Relief and Economic Security Act (the “CARES Act”).  The CARES Act, among other things,
+includes provisions relating to refundable payroll tax credits, deferment of employer side social security payments, net operating loss carryback periods, alternative
+minimum tax credit refunds, modifications to the net interest deduction limitations and technical corrections to tax depreciation methods for qualified improvement
+property. We continue to examine the impact that the CARES Act may have on our business, including the extent of our PPP loan forgiveness eligibility.
+The Paycheck Protection Program
+On May 5, 2020, the Company entered into a promissory note (the “Note”) with Silicon Valley Bank (the “Lender”) evidencing an unsecured loan in an aggregate
+principal amount of $2,412,890 pursuant to the PPP under the CARES Act administered by the U.S. Small Business Administration (“SBA”).
+Interest accrues on the Note at a fixed rate of one percent (1%) per annum, with the payment of the first ten months of interest and principal deferred. The Note has an
+initial term of two years, is unsecured and is guaranteed by the SBA. The Company applied to the Lender for forgiveness of the Note in March 2021 with the amount
+which may be forgiven equal to the sum of qualifying expenses, including payroll costs, covered rent obligations, and covered utility payments incurred by the Company
+during the twenty-four week period beginning on May 7, 2020, calculated in accordance with the terms of the CARES Act. Management believes we have properly
+satisfied all eligibility requirements for full forgiveness, however, we cannot provide assurance that the Note will be forgiven.
+Subject to any forgiveness under the PPP, the Note will mature on May 5, 2022. Beginning on the seventeen-month anniversary of the date of the Note, the Company is
+required to make equal monthly payments of principal and interest. The Note may be prepaid at any time prior to maturity with no prepayment penalties. The Note
+provides for customary events of default including, among others, those relating to breaches of the Company’s obligations under the Note, including a failure to make
+payments, any bankruptcy or similar proceedings involving the Company, and certain material effects on the Company’s ability to repay the Note. The Note may be
+accelerated upon the occurrence of an event of default.
+27

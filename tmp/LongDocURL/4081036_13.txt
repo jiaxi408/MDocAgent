@@ -1,0 +1,194 @@
+ 
+Pending Accounting Pronouncements
+In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments—Credit Losses (Topic 326), which introduces a new methodology for accounting for credit
+losses on financial instruments, including available-for-sale debt securities and accounts receivable. The guidance establishes a new “expected loss model” that requires
+entities to estimate current expected credit losses on financial instruments by using all practical and relevant information. Any expected credit losses are to be reflected as
+allowances rather than reductions in the amortized cost of available-for-sale debt securities. ASU 2016-13 is effective in the first quarter of fiscal 2024. We are currently
+evaluating if this guidance will have a material effect to our consolidated financial statements.
+3.
+Fair Value Measurements
+The following tables set forth our financial assets that were accounted for at fair value on a recurring basis. There were no fair value measurements of our financial assets
+using level 3 inputs for the periods presented:
+ 
+ 
+ 
+  
+ 
+ 
+Fair Value at April 30, 2021 Using
+ 
+ 
+ 
+Total
+ 
+ 
+Level 1
+ 
+ 
+Level 2
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+Assets:
+  
+    
+    
+  
+Cash equivalents
+ $
+46   $
+46   $
+—  
+Total
+ $
+46   $
+46   $
+—
+ 
+ 
+ 
+  
+ 
+ 
+Fair Value at January 31, 2021 Using
+ 
+ 
+ 
+Total
+ 
+ 
+Level 1
+ 
+ 
+Level 2
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+Assets:
+  
+    
+    
+  
+Cash equivalents
+ $
+46   $
+46   $
+—  
+Marketable securities:
+  
+    
+    
+  
+U.S. Treasury Notes and bonds
+  
+252    
+252    
+—  
+Total
+ $
+298   $
+298   $
+-
+ 
+Cash equivalents include money market funds and U.S. treasury bills.
+  
+There were no marketable securities as of April 30, 2021. Marketable securities by security type consisted of the following as of January 31, 2021:
+ 
+ 
+ 
+As of January 31, 2021
+ 
+ 
+ 
+Amortized
+Cost
+ 
+ 
+Gross
+Unrealized
+Gains
+  
+Gross
+Unrealized
+Losses
+ 
+ 
+Fair Value
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+U.S. Treasury Notes and bonds
+ $
+249  
+ $
+3   $
+—  
+ $
+252  
+ 
+ $
+249  
+ $
+3   $
+—  
+ $
+252
+ 
+4.
+Consolidated Balance Sheet Detail
+ 
+Property and Equipment, Net
+Property and equipment, net consists of the following:
+ 
+ 
+ 
+As of
+ 
+ 
+ 
+April 30, 2021
+ 
+ 
+January 31, 2021
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+Computer equipment, software and demonstration equipment
+ $
+3,182  
+ $
+9,765  
+Office furniture and equipment
+  
+259  
+  
+306  
+Leasehold improvements
+  
+154  
+  
+238  
+ 
+  
+3,595  
+  
+10,309  
+Less:  Accumulated depreciation and amortization
+  
+(3,117 )
+  
+(9,704 )
+Total property and equipment, net
+ $
+478  
+ $
+605
+13

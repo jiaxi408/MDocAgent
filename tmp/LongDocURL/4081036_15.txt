@@ -1,0 +1,71 @@
+ 
+ 
+ 
+Future estimated amortization expense of intangibles as of April 30, 2021 was $953 thousand to be recognized in fiscal 2022.
+ 
+6.
+Commitments and Contingencies
+Litigation
+Certain conditions may exist as of the date the consolidated financial statements are issued which may result in a loss to the Company, but which will only be resolved
+when one or more future events occur or fail to occur. We assess such contingent liabilities, and such assessment inherently involves an exercise of judgment. In assessing
+loss contingencies related to legal proceedings that are pending against us, or unasserted claims that may result in such proceedings, we evaluate the perceived merits of
+any legal proceedings or unasserted claims, as well as the perceived merits of the amount of relief sought or expected to be sought therein. 
+If the assessment of a contingency indicates that it is probable that a material loss has been incurred and the amount of the liability can be estimated, then the estimated
+liability would be accrued in our consolidated financial statements. If our assessment indicates that a potentially material loss contingency is not probable, but is
+reasonably possible, or is probable but cannot be estimated, then the nature of the contingent liability and an estimate of the range of possible losses, if determinable and
+material, would be disclosed. Loss contingencies considered remote are generally not disclosed, unless they involve guarantees, in which case the guarantees would be
+disclosed.
+Indemnification and Warranties
+We provide indemnification, to the extent permitted by law, to our officers, directors, employees and agents for liabilities arising from certain events or occurrences while
+the officer, director, employee or agent is, or was, serving at our request in such capacity. With respect to acquisitions, we provide indemnification to, or assume
+indemnification obligations for, the current and former directors, officers and employees of the acquired companies in accordance with the acquired companies’
+governing documents. As a matter of practice, we have maintained directors’ and officers’ liability insurance including coverage for directors and officers of acquired
+companies.
+We enter into agreements in the ordinary course of business with customers, resellers, distributors, integrators and suppliers. Most of our historical agreements require us
+to defend and/or indemnify the other party against intellectual property infringement claims brought by a third-party with respect to our products. From time to time, we
+also indemnify customers and business partners for damages, losses and liabilities they may suffer or incur relating to personal injury, personal property damage, product
+liability, and environmental claims relating to the use of our products and services or resulting from the acts or omissions of us, our employees, authorized agents or
+subcontractors. From time to time, we have received requests from customers for indemnification of patent litigation claims. Management cannot reasonably estimate any
+potential losses, but these claims could result in material liability for us. There are no current pending legal proceedings, in the opinion of management that would have a
+material adverse effect on our financial position, results from operations and cash flows. There is no assurance that future legal proceedings arising from ordinary course
+of business or otherwise, will not have a material adverse effect on our financial position, results from operations or cash flows.
+We warrant that our products, including software products, will substantially perform in accordance with our standard published specifications in effect at the time of
+delivery. In addition, we provide maintenance support to our customers and therefore allocate a portion of the product purchase price to the initial warranty period and
+recognize revenue on a straight-line basis over that warranty period related to both the warranty obligation and the maintenance support agreement. When we receive
+revenue for extended warranties beyond the standard duration, it is deferred and recognized on a straight-line basis over the contract period. Related costs are expensed as
+incurred.
+ 
+7.
+Operating Leases
+The Company has operating leases for facilities and equipment expiring at various dates through 2025. 
+ 
+The components of lease expense are as follows:
+ 
+ 
+ 
+For the Three Months Ended April 30,
+ 
+ 
+ 
+2021
+  
+2020
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+Operating lease cost
+ $
+283   $
+322  
+Short term lease cost, net
+  
+5    
+31  
+Total lease cost
+ $
+288   $
+353
+ 
+15

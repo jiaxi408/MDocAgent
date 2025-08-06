@@ -1,0 +1,192 @@
+ 
+Revenue and Gross Profit
+The components of our total revenue and gross profit are described in the following table:
+ 
+ 
+ 
+For the Three Months
+Ended April 30,
+ 
+ 
+Change
+ 
+ 
+ 
+2021
+ 
+ 
+2020
+ 
+ 
+$
+  
+%
+ 
+ 
+ 
+(Amounts in thousands, except for percentage data)
+ 
+Revenue:
+  
+  
+  
+  
+  
+    
+  
+Product revenue:
+  
+  
+  
+  
+  
+    
+  
+Framework
+ $
+1,016 
+ $
+968  
+ $
+48    
+5.0%
+Online video platform and other
+  
+604  
+  
+837  
+  
+(233 )   
+(27.8 %)
+Hardware
+  
+—  
+  
+1,293 
+  
+(1,293 )   
+(100.0 %)
+Total product revenue
+  
+1,620 
+  
+3,098 
+  
+(1,478 )   
+(47.7 %)
+Service revenue:
+  
+  
+  
+  
+  
+    
+  
+Maintenance and support
+  
+2,038 
+  
+2,605 
+  
+(567 )   
+(21.8 %)
+Framework and support services
+  
+939  
+  
+931  
+  
+8    
+0.9%
+Professional services and other
+  
+455  
+  
+281  
+  
+174    
+61.9 %
+Total service revenue
+  
+3,432 
+  
+3,817 
+  
+(385 )   
+(10.1 %)
+Total revenue
+  
+5,052 
+  
+6,915 
+  
+(1,863 )   
+(26.9 %)
+Cost of product revenue
+  
+406  
+  
+1,580 
+  
+(1,174 )   
+(74.3 %)
+Cost of service revenue
+  
+1,815 
+  
+2,826 
+  
+(1,011 )   
+(35.8 %)
+Total cost of revenue
+  
+2,221 
+  
+4,406 
+  
+(2,185 )   
+(49.6 %)
+Gross profit
+ $
+2,831 
+ $
+2,509 
+ $
+322    
+12.8 %
+Gross product profit margin
+  
+74.9 %   
+49.0 %   
+    
+25.9 %
+Gross service profit margin
+  
+47.1 %   
+26.0 %   
+    
+21.2 %
+Gross profit margin
+  
+56.0 %   
+36.3 %   
+    
+19.8 %
+ 
+Two customers accounted for 18% and 16% of total revenue for the three months ended April 30, 2021 and two customers accounted for 15% and 13% of total revenue
+for the three months ended April 30, 2021. See Part I Item I, Note 2, “Significant Accounting Policies,” to this Form 10-Q for more information.
+International revenue accounted for 56% and 66% of total revenue in the three months ended April 30, 2021 and 2020, respectively. The decrease in international sales as
+a percentage of total revenue in the three months ended April 30, 2021 as compared to the three months ended April 30, 2020 is primarily due to a decrease in
+international revenue at a higher rate than U.S. revenue primarily due to the COVID-19 pandemic.
+Product Revenue
+Product revenue decreased by $1.5 million for the three months ended April 30, 2021 as compared to the three months ended April 30, 2020. The decrease for the three
+months ended April 30, 2021 was primarily due to the shift to our Framework sales model, which did not include any third-party hardware, and a decrease in legacy
+product sales in which we would procure and sell third-party hardware to our customers.
+Service Revenue
+Service revenue decreased by $0.4 million for the three months ended April 30, 2021 as compared to the three months ended April 30, 2020. The decrease for the three
+months ended April 30, 2020 was primarily due to a decrease in our maintenance and support revenue provided on post warranty contracts as customers continue to
+provide their own solutions and legacy products are decommissioned.
+Gross Profit and Margin
+Cost of revenue consists primarily of the cost of resold third-party products and services, purchased components and subassemblies, labor and overhead relating to the
+assembly, testing and implementation and ongoing maintenance of complete systems.
+23

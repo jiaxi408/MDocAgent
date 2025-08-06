@@ -1,0 +1,33 @@
+(GLWDGR(QHUR
+- 1 -
+Technical Characteristics, Basic Level
+MODULE 1
+General index
+1.- General Characteristics --------------------------------------- 3
+1.1 Machine Definition ------------------------------------------------ 3
+1.2 Product Container ------------------------------------------------- 4
+1.3 Types of Available Coils ---------------------------------------- 5
+1.4 Refrigeration -------------------------------------------------------- 8
+1.5 Series Models and their Configurations -------------------- 9
+1.6 Exterior Communication -------------------------------------- 16
+1.7 Instruction Lettering and Operator Data ------------------ 17
+1.8 Operation Control ----------------------------------------------- 17
+1.9 Selection Keys --------------------------------------------------- 17
+1.10 Coin Mechanism ----------------------------------------------- 18
+1.11 Sales Prices ---------------------------------------------------- 18
+1.12 Coin Acceptance ---------------------------------------------- 18
+1.13 Coin Return ----------------------------------------------------- 19
+2.- Technical Characteristics ------------------------------------ 20
+2.1 Standards --------------------------------------------------------- 20
+2.2 Physical Characteristics -------------------------------------- 20
+2.3 Materials and Paints ------------------------------------------- 21
+2.3.1 Door
+2.3.2 Glass
+2.3.3 Body
+2.3.4 Paint
+2.3.5 Saline Vapour
+2.4 Electrical Specifications -------------------------------------- 23
+2.5 Temperature and Relative Humidity------------------------ 24
+2.6 Operational Incline ---------------------------------------------- 24
+2.7 Sound Level ------------------------------------------------------ 24
+continued..

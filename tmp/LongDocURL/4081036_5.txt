@@ -1,0 +1,231 @@
+ 
+SEACHANGE INTERNATIONAL, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited, amounts in thousands)
+ 
+ 
+ 
+For the Three Months Ended April 30,
+ 
+ 
+ 
+2021
+ 
+ 
+2020
+ 
+Cash flows from operating activities:
+ 
+  
+  
+ 
+ 
+ 
+Net loss
+ 
+$
+(4,068 )  
+$
+(6,510 )
+Adjustments to reconcile net loss to net cash used in operating activities:
+ 
+  
+  
+  
+ 
+Depreciation and amortization expense
+ 
+ 
+376   
+ 
+357  
+Loss on disposal of fixed assets
+ 
+ 
+77   
+ 
+—  
+Gain on write-off of operating lease right-of-use assets and liabilities
+     related to termination
+ 
+ 
+(328 )  
+ 
+—  
+Change in allowance for doubtful accounts
+ 
+ 
+—   
+ 
+(316 )
+Stock-based compensation expense
+ 
+ 
+208   
+ 
+357  
+Realized and unrealized foreign currency transaction loss (gain)
+ 
+ 
+263   
+ 
+(29 )
+Other
+ 
+ 
+1   
+ 
+14  
+Changes in operating assets and liabilities:
+ 
+ 
+   
+ 
+  
+Accounts receivable
+ 
+ 
+(208 )  
+ 
+3,111  
+Unbilled receivables
+ 
+ 
+1,431   
+ 
+589  
+Prepaid expenses and other current assets and other assets
+ 
+ 
+—   
+ 
+(554 )
+Accounts payable
+ 
+ 
+34   
+ 
+417  
+Accrued expenses and other liabilities
+ 
+ 
+173   
+ 
+(1,689 )
+Deferred revenue
+ 
+ 
+221   
+ 
+(10 )
+Net cash used in operating activities
+ 
+ 
+(1,820 )  
+ 
+(4,263 )
+Cash flows from investing activities:
+ 
+  
+  
+  
+ 
+Purchases of property and equipment
+ 
+ 
+(7 )  
+ 
+(138 )
+Proceeds from sales and maturities of marketable securities
+ 
+ 
+252   
+ 
+1,201  
+Net cash provided by investing activities
+ 
+ 
+245   
+ 
+1,063  
+Cash flows from financing activities:
+ 
+  
+  
+  
+ 
+Proceeds from stock option exercises
+ 
+ 
+137   
+ 
+119  
+Proceeds from employee stock purchase plan
+ 
+ 
+—   
+ 
+18  
+Proceeds from issuance of common stock, net of issuance costs
+ 
+ 
+17,462   
+ 
+—  
+Net cash provided by financing activities
+ 
+ 
+17,599   
+ 
+137  
+Effect of exchange rate on cash, cash equivalents and restricted cash
+ 
+ 
+(199 )  
+ 
+153  
+Net increase (decrease) in cash, cash equivalents and restricted cash
+ 
+ 
+15,825   
+ 
+(2,910 )
+Cash, cash equivalents and restricted cash at beginning of period
+ 
+ 
+6,084   
+ 
+9,297  
+Cash, cash equivalents and restricted cash at end of period
+ 
+$
+21,909   
+$
+6,387  
+Supplemental disclosure of cash flow information
+ 
+  
+  
+  
+ 
+Income taxes paid
+ 
+$
+101   
+$
+11  
+Non-cash activities:
+ 
+  
+  
+  
+ 
+Right-of-use assets obtained in exchange for lease obligations
+ 
+$
+—   
+$
+402
+ 
+The accompanying notes are an integral part of these unaudited, consolidated financial statements.
+5

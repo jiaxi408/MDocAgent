@@ -1,0 +1,44 @@
+ 
+ 
+Identify the customer contract
+A customer contract is generally identified when there is approval and commitment from both the Company and its customer, the rights have been identified, payment
+terms are identified, the contract has commercial substance and collectability and consideration is probable.
+Identify performance obligations that are distinct
+A performance obligation is a promise to provide a distinct good or service or a series of distinct goods or services. A good or service that is promised to a customer is
+distinct if the customer can benefit from the good or service either on its own or together with other resources that are readily available to the customer, and a company’s
+promise to transfer the good or service to the customer is separately identifiable from other promises in the contract.
+Determine the transaction price 
+The transaction price is the amount of consideration to which the Company expects to be entitled in exchange for transferring goods or services to a customer, excluding
+sales and VAT taxes that are collected on behalf of government agencies.
+ 
+Allocate the transaction price to distinct performance obligations 
+The transaction price is allocated to each performance obligation based on the relative standalone selling prices (“SSP”) of the goods or services being provided to the
+customer. Our contracts typically contain multiple performance obligations, for which we account for individual performance obligations separately, if they are distinct.
+Recognize revenue as the performance obligations are satisfied 
+We enter into contracts that include combinations of license, support and professional services, and third-party products, which are accounted for as separate performance
+obligations with differing revenue recognition patterns. Revenue is recognized when or as control of the promised goods or services is transferred to customers. Our
+software licenses are primarily delivered on a perpetual basis, whereby the customer receives rights to use the software for an indefinite time period or a specified term
+and delivery and revenue recognition occurs at the point in time when the customer has the ability to download or access the software. Our customers may also contract
+with us for a Software as a Service (“SaaS”) type license whereby the customer only has a right to access the software for a defined term. SaaS licenses are recognized
+ratably over the subscription period beginning on the date the license is made available to customers.
+Our services revenue is comprised of support services and professional services. Support services consist of software upgrades on a when-and-if available basis, telephone
+support, bug fixes or patches and general hardware maintenance support. Revenue related to support services is recognized ratably over the term of the contract.
+Professional services are recognized as the services are performed.
+Revenues attributable to third party products typically consist of hardware and related support contracts. Hardware products are typically recognized when control is
+transferred to the customer, which is defined as the point in time when the client can use and benefit from the hardware. In situations where the hardware is distinct and it
+is delivered before services are provided and is functional without services, control is transferred upon delivery or acceptance by the customer. Revenue attributable to
+third-party support contracts is recognized ratably over the term of the contract.
+Significant Judgments
+Our contracts with customers often include promises to transfer multiple products and services to a customer. Determining whether products and services are considered
+distinct performance obligations that should be accounted for separately versus together may require significant judgment. Once we determine the performance
+obligations, we determine the transaction price, which includes estimating the amount of variable consideration to be included in the transaction price, if any. The
+transaction price is then allocated to each performance obligation in the contract based on the SSP. The corresponding revenue is recognized as the related performance
+obligations are satisfied.
+Judgment is required to determine the SSP for each distinct performance obligation. We determine SSP based on the price at which the performance obligation is sold
+separately and the methods of estimating SSP under the guidance of ASC 606-10-32-33. If the SSP is not observable through past transactions, we estimate the SSP,
+taking into account available information such as market conditions, expected margins, and internally approved pricing guidelines related to the performance obligations.
+In February 2019, we began selling a new software bundle called the Framework in addition to our legacy software products and services. Our legacy products were
+historically sold on a standalone basis and therefore the SSP and revenue recognition may differ from the Framework. A typical Framework deal licenses our software
+products and services, including upgrades for one fixed price. Management considers the pricing of our Framework perpetual licenses as highly variable and uncertain and
+we do
+10

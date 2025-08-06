@@ -1,0 +1,170 @@
+ 
+Stock-Based Compensation
+We recognized stock-based compensation expense within the accompanying consolidated statements of operations and comprehensive loss as follows:
+ 
+ 
+ 
+For the Three Months
+Ended April 30,
+ 
+ 
+ 
+2021
+ 
+ 
+2020
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+Cost of revenue
+ $
+1  
+ $
+(8 )
+Research and development
+  
+(77 )
+  
+67  
+Sales and marketing
+  
+18  
+  
+40  
+General and administrative
+  
+266  
+  
+258  
+ 
+ $
+208  
+ $
+357
+ 
+ 
+As of April 30, 2021, unrecognized stock-based compensation expense related to unvested stock options was approximately $0.4 million, which is expected to be
+recognized over a weighted average period of 2.2 years. As of April 30, 2021, unrecognized stock-based compensation expense related to unvested RSUs and DSUs was
+$0.5 million, which is expected to be recognized over a weighted average amortization period of 0.9 years. Additionally, as of April 30, 2021, unrecognized stock-based
+compensation expense related to unvested PSUs was less than $0.1 million, which is expected to be recognized over a weighted average amortization period of 1.1 years.
+10.
+Accounts Receivables, Contract Assets, and Contract Liabilities
+ 
+Receivables
+ 
+ 
+The following table summarizes our accounts receivable, net and unbilled receivables:
+ 
+ 
+ 
+As of April 30,
+ 
+ 
+As of January 31,
+ 
+ 
+ 
+2021
+ 
+ 
+2021
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+Accounts receivable, net
+ $
+6,249  
+ $
+6,050  
+Unbilled receivables, current
+  
+8,420  
+  
+9,359  
+Unbilled receivables, long-term
+  
+5,842  
+  
+6,340  
+ 
+ $
+20,511  
+ $
+21,749
+ 
+Contract Assets
+Contract assets consist of unbilled receivables and are customer committed amounts for which revenue recognition precedes billing, and billing is solely subject to the
+passage of time.
+Unbilled receivables are expected to be billed in the future as follows (amounts in thousands, except percentage amounts):
+ 
+ 
+ 
+As of April 30,
+ 
+ 
+ 
+2021
+ 
+ 
+Percentage
+ 
+1 year or less
+ $
+8,420  
+  
+59 %
+1-2 years
+  
+4,623  
+  
+32 %
+2-5 years
+  
+1,219  
+  
+9 %
+Total unbilled receivables
+ $
+14,262  
+  
+100 %
+Contract Liabilities
+Contract liabilities consist of deferred revenue and customer deposits that arise when amounts are billed to or collected from customers in advance of revenue recognition.
+Deferred revenue that will be recognized during the succeeding 12-month period is recorded as current deferred revenue and the remaining portion is recorded as deferred
+revenue, long-term. The change in deferred revenue in the first quarter ended April 30, 2021 is due to new billings in advance of revenue recognition offset by revenue
+recognized during the period.
+ 
+ 
+Deferred Revenue
+ 
+ 
+ 
+Current
+ 
+ 
+Long-Term
+ 
+ 
+ 
+(Amounts in thousands)
+ 
+Balance as of January 31, 2021
+ $
+4,737  
+ $
+657  
+Increase (decrease)
+  
+428  
+  
+(213 )
+Balance as of April 30, 2021
+ $
+5,165  
+ $
+444
+18

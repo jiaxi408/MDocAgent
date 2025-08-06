@@ -60,6 +60,7 @@ class BaseDataset():
             if not os.path.exists(path):
                 raise FileNotFoundError(f"Sample file not found: {path}")
             with open(path, "r") as f:
+                print(f"Loading data from: {path}")
                 samples = json.load(f)
 
         return samples

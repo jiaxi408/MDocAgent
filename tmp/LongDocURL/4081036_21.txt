@@ -1,0 +1,46 @@
+ 
+ITEM 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Forward-Looking Statements
+This Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, and such statements
+involve risks and uncertainties. The following information should be read in conjunction with the unaudited consolidated financial information and the notes thereto
+included in this Form 10-Q. You should not place undue reliance on these forward-looking statements. Actual events or results may differ materially due to competitive
+factors and other factors referred to in Part I, Item 1A. “Risk Factors” in our Annual Report on Form 10-K (the “Form 10-K”) for our fiscal year ended January 31, 2021
+and elsewhere in this Form 10-Q. These factors may cause our actual results to differ materially from any forward-looking statement. These forward-looking statements
+are based on current expectations, estimates, forecasts and projections about the industry and markets in which we operate, and management’s beliefs and assumptions.
+We undertake no obligation to publicly update or revise the statements in light of future developments. In addition, other written or oral statements that constitute forward-
+looking statements may be made by us or on our behalf. Words such as “expect,” “seek,” “anticipate,” “intend,” “plan,” “believe,” “could,” “estimate,” “may,” “target,”
+“project,” or variations of such words and similar expressions are intended to identify such forward-looking statements. These statements are not guarantees of future
+performance and involve certain risks, uncertainties, and assumptions that are difficult to predict.
+Business Overview  
+SeaChange International, Inc., a Delaware corporation founded on July 9, 1993, is an industry leader in the delivery of multiscreen, advertising and premium OTT video
+management solutions. Our software products and services facilitate the aggregation, licensing, management and distribution of video and advertising content for service
+providers, telecommunications companies, satellite operators, broadcasters, and other content providers. We sell our software products and services worldwide, primarily
+to service providers including: operators, such as Liberty Global, plc., Altice NV, Cox Communications, Inc. and Rogers Communications, Inc.; telecommunications
+companies, such as Verizon Communications, Inc., AT&T, Inc. and Frontier Communications Corporation; satellite operators such as Dish Network Corporation; and
+broadcasters.
+Our software products and services are designed to empower video providers to create, manage and monetize the increasingly personalized, highly engaging experiences
+that viewers demand. Using our products and services, we believe customers can increase revenue by offering services such as VOD programming on a variety of
+consumer devices, including televisions, smart phones, PCs, tablets and OTT streaming players. Our solutions enable service providers to offer other interactive television
+services that allow subscribers to receive personalized services and interact with their video devices, thereby enhancing their viewing experience. Our products also allow
+our customers to insert advertising into broadcast and VOD content.
+SeaChange serves an exciting global marketplace where multiscreen viewing is increasingly required, consumer device options are evolving rapidly, and viewing habits
+are ever-shifting. The primary driver of our business is enabling the delivery of video content in the changing multiscreen television environment. We have expanded our
+capabilities, products and services to address the delivery of content to devices other than television set-top boxes, namely PCs, tablets, smart phones and OTT streaming
+players. We believe that our strategy of expanding into adjacent product lines will also position us to further support and maintain our existing service provider customer
+base. Providing our customers with more scalable software platforms enables them to further reduce their infrastructure costs, improve reliability and expand service
+offerings to their customers. Additionally, we believe we are well positioned to capitalize on new customers entering the multiscreen marketplace and increasingly serve
+adjacent markets. Our core technologies provide a foundation for software products and services that can be deployed in next generation video delivery systems capable
+of increased levels of subscriber activity across multiple devices.
+We continue to initiate restructuring efforts to improve operations and optimize our cost structure. In the first quarter of fiscal 2022, we restructured our finance
+department and terminated the lease to our Waltham, Massachusetts headquarters. In the first half of fiscal 2021, we reduced our headcount across all departments in
+response to the COVID-19 pandemic, for which we expect approximately $7.6 million of annualized savings. Additionally, in the second quarter of fiscal 2021 we
+transferred our technical support services to our Poland location in an effort to further reduce cost.
+In February 2019, we entered into a cooperation agreement (the “Cooperation Agreement”) with TAR Holdings LLC and Karen Singer (collectively, “TAR Holdings”).
+As of the date of the Cooperation Agreement, TAR Holdings beneficially owned approximately 20.6% of our outstanding common stock. Pursuant to the Cooperation
+Agreement, we agreed to set the size of the Board at up to eight members, appointed Robert Pons to the Board as a Class II Director with an initial term that expired at the
+2019 annual meeting of stockholders, and appointed Jeffrey Tuder to the Board as a Class III Director with an initial term that expired at the 2020 annual meeting of
+stockholders. Messrs. Pons and Tuder were subsequently re-elected in the 2019 and 2020 annual meeting of stockholders, respectively. On January 8, 2021, our Chief
+Executive Officer resigned, and Mr. Pons was subsequently appointed Executive Chairman and Principal Executive Officer in the interim. Mr. Tuder resigned from the
+Board on May 14, 2021 and was replaced by David Nicol.
+21
